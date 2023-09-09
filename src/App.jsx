@@ -1,8 +1,9 @@
-import Countries from "./components/Countries"
+import Countries from "./components/Countries/Countries"
 
 const App = () => {
   return (
     <div>
+
       <Countries />
     </div>
   )
